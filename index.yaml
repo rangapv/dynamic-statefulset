@@ -3,12 +3,12 @@ entries:
   statefulset:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-22T09:39:03.125534738Z"
+    created: "2020-05-22T09:51:13.997079509Z"
     description: A Helm chart for Kubernetes
     digest: b0b75d192a32a6ad68a01f3027ced8c82b317838d48544aae9ca337604bde783
     name: statefulset
     type: application
     urls:
-    - https://rangapv.github.io/dynamic-statefulset/statefulset/statefulset-0.1.0.tgz
+    - https://rangapv.github.io/dynamic-statefulset/statefulset-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-22T09:39:03.124073288Z"
+generated: "2020-05-22T09:51:13.99619645Z"
